@@ -5,9 +5,9 @@ Visit my [personal website](https://jaavin.ca) to learn more about me!
 <hr>
 
 ``` 
-👨‍💻 Experienced in Java, Python, JavaScript, TypeScript, HTML, CSS, and Solidity
+👨‍💻 Experienced in Java, Python, JavaScript, TypeScript, HTML5, CSS3, Solidity, Bash, MATLAB, and SQL
 🤖 A Project Lead at McMaster AI Society, building an Ethereum Fraud Detector using convolutional neural networks.
-⛓️ Founder and President of McMaster Blockchain Club
+⛓️ Founder and President of the McMaster Blockchain Club
 🚀 The Assistant Project Manager at McMaster Rocketry Team, managing technical design reviews.
 🍁 Previous experience working in an internationally recognized Canadian robotics team (FRC 1325 - Inverse Paradox).
 ❤️ I strongly believe in giving back to the community. I am a member of the Engineering 1 operating committee representing ~1000 engineering 1 students
