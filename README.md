@@ -1,11 +1,13 @@
 ## Hello👋, I'm Jaavin.
 
+Software developer intern currently building performant & high-assurance software at IPEX
+
 Visit my [personal website](https://jaavin.ca) to learn more about me!
 
 <hr>
 
 ``` 
-👨‍💻 Experienced in Java, Python, JavaScript, TypeScript, HTML5, CSS3, Solidity, Bash, MATLAB, and SQL
+👨‍💻 Experienced in Java, Python, JavaScript, TypeScript, HTML5, CSS3, C#, Solidity, Bash, MATLAB, and SQL
 🤖 A Project Lead at McMaster AI Society, building an Ethereum Fraud Detector using convolutional neural networks.
 ⛓️ Founder and President of the McMaster Blockchain Club
 🚀 The Assistant Project Manager at McMaster Rocketry Team, managing technical design reviews.
@@ -21,6 +23,7 @@ Visit my [personal website](https://jaavin.ca) to learn more about me!
 <a href="https://github.com/search?q=user%3AUnloadingGnat+is%3Arepo+language%3Atypescript">![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</a>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Solidity](https://img.shields.io/badge/solidity-363636?logo=solidity&logoColor=white&style=for-the-badge)
 
 ### 🧰 Frameworks
@@ -29,6 +32,7 @@ Visit my [personal website](https://jaavin.ca) to learn more about me!
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-d6CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### 🗄️ Databases, Cloud Hosting, and Platforms
 ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
