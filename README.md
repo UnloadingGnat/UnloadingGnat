@@ -7,7 +7,7 @@ Visit my [personal website](https://jaavin.ca) to learn more about me!
 <hr>
 
 ``` 
-👨‍💻 Experienced in Java, Python, JavaScript, TypeScript, HTML5, CSS3, C#, Solidity, Bash, MATLAB, and SQL
+👨‍💻 Experienced in Java, Python, JavaScript, TypeScript, HTML5, CSS3, GraphQL, C#, SQL, Solidity, Bash, and MATLAB
 🤖 A Project Lead at McMaster AI Society, building an Ethereum Fraud Detector using convolutional neural networks.
 ⛓️ Founder and President of the McMaster Blockchain Club
 🚀 The Assistant Project Manager at McMaster Rocketry Team, managing technical design reviews.
@@ -23,8 +23,8 @@ Visit my [personal website](https://jaavin.ca) to learn more about me!
 <a href="https://github.com/search?q=user%3AUnloadingGnat+is%3Arepo+language%3Atypescript">![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</a>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### 🧰 Frameworks
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -33,6 +33,7 @@ Visit my [personal website](https://jaavin.ca) to learn more about me!
 ![Vite](https://img.shields.io/badge/vite-d6CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### 🗄️ Databases, Cloud Hosting, and Platforms
@@ -55,5 +56,3 @@ Visit my [personal website](https://jaavin.ca) to learn more about me!
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Intellij IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-
-
