@@ -1,4 +1,4 @@
-## Hello👋, I'm Jaavin.
+## Hello! I'm Jaavin.
 
 Software developer intern currently building performant & high-assurance software at IPEX
 
