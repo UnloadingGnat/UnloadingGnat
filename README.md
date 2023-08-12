@@ -4,18 +4,6 @@ Software developer intern currently building performant & high-assurance softwar
 
 Visit my [personal website](https://jaavin.ca) to learn more about me!
 
-<hr>
-
-``` 
-👨‍💻 Experienced in Java, Python, JavaScript, TypeScript, HTML5, CSS3, GraphQL, C#, SQL, Solidity, Bash, and MATLAB
-🤖 A Project Lead at McMaster AI Society, building an Ethereum Fraud Detector using convolutional neural networks.
-⛓️ Founder and President of the McMaster Blockchain Club
-🚀 The Assistant Project Manager at McMaster Rocketry Team, managing technical design reviews.
-🍁 Previous experience working in an internationally recognized Canadian robotics team (FRC 1325 - Inverse Paradox).
-❤️ I strongly believe in giving back to the community. I am a member of the Engineering 1 operating committee representing ~1000 engineering 1 students
-```
-<hr/>
-
 ### 👨‍💻 Programming Languages
 <a href="https://github.com/search?q=user%3AUnloadingGnat+is%3Arepo+language%3Ajava">![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)</a>
 <a href="https://github.com/search?q=user%3AUnloadingGnat+is%3Arepo+language%3Apython">![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</a>
