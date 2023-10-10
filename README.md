@@ -7,10 +7,10 @@ Visit my [personal website](https://jaavin.ca) to learn more about me!
 ---
 
 ### 👨‍💻 Programming Languages
+<a href="https://github.com/search?q=user%3AUnloadingGnat+is%3Arepo+language%3Atypescript">![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</a>
+<a href="https://github.com/search?q=user%3AUnloadingGnat+is%3Arepo+language%3Ajavascript">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a>
 <a href="https://github.com/search?q=user%3AUnloadingGnat+is%3Arepo+language%3Ajava">![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)</a>
 <a href="https://github.com/search?q=user%3AUnloadingGnat+is%3Arepo+language%3Apython">![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</a>
-<a href="https://github.com/search?q=user%3AUnloadingGnat+is%3Arepo+language%3Ajavascript">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a>
-<a href="https://github.com/search?q=user%3AUnloadingGnat+is%3Arepo+language%3Atypescript">![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</a>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
